@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammadjon</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadjoni&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" style=""/>
+<img src="https://64.media.tumblr.com/8252fe127e6b63206179a96239e8b4b1/tumblr_nuvyxlF1vV1qa763mo1_500.gifv" alt="muhammadjoni" style=""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjoni&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" /> </p>
 

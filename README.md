@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjoni&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadjoni" alt="muhammadjoni" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=muhammadjoni" alt="muhammadjoni" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Currently learning **Flutter**
 
-- 📫 How to reach me **mrahimzod@gmail.com**
+- 📫 Reach me through **mrahimzod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
     <img width="33%" src="https://media1.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47u0g1eh6ice5i2pqhix1vs7mzm4d3e4c07bd5btka&rid=giphy.gif&ct=g">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjoni&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?Muhammadjoni=ryo-ma&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=muhammadjoni&theme=flat
 "><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true

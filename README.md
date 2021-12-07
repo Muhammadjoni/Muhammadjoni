@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjoni&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoni" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=muhammadjoni&theme=flat
-"><img src="https://github-profile-trophy.vercel.app/?username=muhammadjoni" alt="muhammadjoni" /></a> </p>
+"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+" alt="muhammadjoni" /></a> </p>
 
 - 🌱 Currently learning **Flutter**
 

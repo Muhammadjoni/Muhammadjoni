@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammadjon</h1>
-<h3 align="center">A passionate Software Engineer and Blockchain Developer</h3>
+<h3 align="center">A passionate Software Engineer and Blockchain Enthusiast</h3>
 
 <p align="center" width="100%">
     <img width="50%" src="https://media1.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47u0g1eh6ice5i2pqhix1vs7mzm4d3e4c07bd5btka&rid=giphy.gif&ct=g">

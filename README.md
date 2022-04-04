@@ -13,7 +13,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **mrahimzod@gmail.com**
 

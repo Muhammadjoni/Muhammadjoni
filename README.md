@@ -13,7 +13,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **Goooooooooo**
 
 - 📫 How to reach me **mrahimzod@gmail.com**
 

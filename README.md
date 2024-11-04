@@ -13,7 +13,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Goooooooooo**
+- 🌱 **Goooooooooo**
 
 - 📫 How to reach me **mrahimzod@gmail.com**
 
